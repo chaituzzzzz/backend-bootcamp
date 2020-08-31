@@ -1,0 +1,12 @@
+new & run validators in findByIdanndupdate
+validators within mongoose schema - how to use?
+why error handling middle ware is written after all middlewares?
+classes & error response object
+About Error class in js
+spread operator in rhs
+destructuring
+mongoose middleware
+sluggify
+geocoder
+bcrypt(will get some issues in windows) vs bcrypt js
+model.methods && model.statucs
